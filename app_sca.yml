@@ -39,8 +39,8 @@ cxflow:
   #wiki-url: https://custodela.atlassian.net/wiki/spaces/AS/pages/79462432/Remediation+Guidance
   codebash-url: https://checkmarx-demo.codebashing.com/courses/
   enabled-vulnerability-scanners:
-    - sca
-  #  - sast
+  #  - sca
+    - sast
 
 checkmarx:
   version: 9.0
